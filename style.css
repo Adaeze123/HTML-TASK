@@ -1,0 +1,34 @@
+body {
+    font-family: Cambria, Cochin, 'Times New Roman', Times, serif;
+    margin: 0 auto;
+    border: 1px solid #50595B;
+    max-width: 900px;
+}
+.profile {
+    align-items: center;
+    background-color: #CC7868; 
+    display: flex;
+    padding: 25px 0px;
+    justify-content: left;
+}
+img {
+    width: 300px;
+    border: 10px;
+    padding: 2px;
+    margin: 5px;
+}
+.home {
+    padding-left: 80px;
+    text-align: center;
+}
+.container {
+    display: block;   
+}
+.container A {
+    width: 30%;
+    padding: 0 20%px;
+}
+.container B {
+    width: 70%;
+    padding: 0 20%;
+}
