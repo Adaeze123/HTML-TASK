@@ -26,7 +26,8 @@ img {
     text-align: center;
 }
 .container {
-    display: block;   
+    display: block; 
+    margin-left: 10px;  
 }
 .container A {
     width: 30%;
@@ -35,4 +36,27 @@ img {
 .container B {
     width: 70%;
     padding: 0 20%;
+}
+.contact{
+    max-width: 350px;
+    width: 100%;
+    margin: 0 20px;
+}
+
+.input_field{
+    width: 30em;
+    margin-bottom: 20px;
+    padding: 7px;
+    border: 1px solid #333; 
+}
+
+.btn {
+    width: 30em;
+    border: 1px solid;
+    cursor: pointer;
+    padding: 10px;
+    font-size: 14px;
+    background-color: #000;
+    color: #fff;
+    border-radius: 5px;
 }
