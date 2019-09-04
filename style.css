@@ -1,0 +1,62 @@
+body {
+    font-family: Cambria, Cochin, 'Times New Roman', Times, serif;
+    margin: 0 auto;
+    border: 1px solid #50595B;
+    max-width: 900px;
+}
+.profile {
+    align-items: center;
+    background-color: #000; 
+    color: #fff;
+    display: flex;
+    padding: 25px 0px;
+    justify-content: left;
+}
+a{
+    color: #fff;
+}
+img {
+    width: 300px;
+    border-radius: 50%;
+    padding: 2px;
+    margin: 5px;
+}
+.home {
+    padding-left: 80px;
+    text-align: center;
+}
+.container {
+    display: block; 
+    margin-left: 10px;  
+}
+.container A {
+    width: 30%;
+    padding: 0 20%px;
+}
+.container B {
+    width: 70%;
+    padding: 0 20%;
+}
+.contact{
+    max-width: 350px;
+    width: 100%;
+    margin: 0 20px;
+}
+
+.input_field{
+    width: 30em;
+    margin-bottom: 20px;
+    padding: 7px;
+    border: 1px solid #333; 
+}
+
+.btn {
+    width: 30em;
+    border: 1px solid;
+    cursor: pointer;
+    padding: 10px;
+    font-size: 14px;
+    background-color: #000;
+    color: #fff;
+    border-radius: 5px;
+}
